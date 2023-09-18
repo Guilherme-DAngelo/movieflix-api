@@ -88,7 +88,7 @@
                         "description": "O filme não foi encontrado"
                     },
                     "500": {
-                        "description": "Falha remover o   filme"
+                        "description": "Não foi possível remover o filme"
                     }
                 }
             }

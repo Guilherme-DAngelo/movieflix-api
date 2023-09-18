@@ -68,7 +68,7 @@ app.put("/movies/:id", async (req,res) => {
         });
 
         if(!movie){
-            return res.status(404).send({message: "O filme não foi encontardo"});
+            return res.status(404).send({message: "O filme não foi encontrado"});
         }
 
         const data = { ...req.body };
