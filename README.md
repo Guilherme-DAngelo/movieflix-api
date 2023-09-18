@@ -10,6 +10,10 @@ Neste desafio, deveríamos construir uma API, que se comunica perfeitamente entr
 - O Prisma é um ORM, que conecta o banco de dados com a nossa API.
 - O Swagger serve para documentarmos e descrevermos como a nossa API funciona, quais as rotas existem na API, quais os retornos de cada API, quais parâmetros elas esperam, etc.
 
+  ### Resultado
+
+![](src/image/project.gif)
+
 ## Meu processo
 
 ### Feito com:
@@ -32,7 +36,8 @@ Neste desafio, deveríamos construir uma API, que se comunica perfeitamente entr
 >npm install
 - depois para visualizar o projeto digite
 >npm run dev
-- E por último, pesquise a URL: http://localhost3000/docs para ter acesso ás funcionalidades
+- E por último, digite na URL do seu navegador para ter acesso ás funcionalidades:
+> http://localhost3000/docs
 
 <br>
 
