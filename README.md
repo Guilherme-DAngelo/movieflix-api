@@ -1,6 +1,6 @@
 # Projeto de Backend com Express (Node.js) e PostgreSQL
 
-Esse projeto é uma API de filmes, usando Express e banco de dados com o PostgreSQL.
+Esse projeto foi criado para ser uma API de filmes, utilizando Express.js, banco de dados com o PostgreSQL e TypeScript.
 
 ## Visão geral
 
@@ -23,6 +23,17 @@ Neste desafio, deveríamos construir uma API, que se comunica perfeitamente entr
 
   ### O que eu aprendi:
   Fazendo este projeto, eu aprendi a utilizar de melhor forma a complexidade do Express, também me aprofundei sobre TypeScript e sobre o ORM Prisma, eu demorei bastante para pegar o jeito do Prisma, mas foi bem recompensador quando consegui assimilar tudo.
+
+## Como rodar o código no seu computador 💻
+
+- Em uma pasta da sua escolha abra o terminal e digite
+> git clone https://github.com/Guilherme-DAngelo/movieflix-api.git
+- para instalar todos arquivos necessários digite
+>npm install
+- depois para visualizar o projeto digite
+>npm run dev
+
+<br>
 
 ## Autor
 
