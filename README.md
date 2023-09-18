@@ -32,6 +32,7 @@ Neste desafio, deveríamos construir uma API, que se comunica perfeitamente entr
 >npm install
 - depois para visualizar o projeto digite
 >npm run dev
+- E por último, pesquise a URL: http://localhost3000/docs para ter acesso ás funcionalidades
 
 <br>
 
